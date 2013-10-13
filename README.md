@@ -10,4 +10,4 @@ License
 
 Various libraries (jQuery, Bootstrap, Modernizr, FontAwesome) are used under the terms of their respective licenses. All original code is unlicensed -- see the UNLICENSE file or visit [unlicense.org](http://unlicense.org/) for the specifics.
 
-The kitten images come from [placekitten](http://placekitten.com/). The photos themselves belong to Flickr users [titrans](http://flickr.com/photos/titrans/) and [BigTallGuy](http://www.flickr.com/photos/bigtallguy/) and are released under [Creative Commons licenses](http://placekitten.com/attribution.html).
+The kitten images come from [placekitten](http://placekitten.com/). The photos themselves belong to Flickr users [nicsuzor](http://flickr.com/photos/nicsuzor/), [titrans](http://flickr.com/photos/titrans/), [latch.r](http://flickr.com/photos/lachlanrogers/), [BigTallGuy](http://www.flickr.com/photos/bigtallguy/), [fazen](http://flickr.com/photos/fazen/), and [caseydavid](http://flickr.com/photos/caseydavid/). The photos are released under [Creative Commons licenses](http://placekitten.com/attribution.html).
